@@ -31895,7 +31895,7 @@ resolve@^2.0.0-next.3:
     prettier: ^2.2.1
     stylelint: ^13.13.1
     stylelint-config-idiomatic-order: ^8.1.0
-    stylelint-config-prettier: ^8.0.2
+    stylelint-config-prettier: ^9.0.5
     stylelint-config-standard: ^22.0.0
     stylelint-no-unsupported-browser-features: ^5.0.1
     stylelint-order: ^4.1.0
@@ -31917,15 +31917,15 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"stylelint-config-prettier@npm:^8.0.2":
-  version: 8.0.2
-  resolution: "stylelint-config-prettier@npm:8.0.2"
+"stylelint-config-prettier@npm:^9.0.5":
+  version: 9.0.5
+  resolution: "stylelint-config-prettier@npm:9.0.5"
   peerDependencies:
-    stylelint: ">=11.0.0"
+    stylelint: ">= 11.x < 15"
   bin:
     stylelint-config-prettier: bin/check.js
     stylelint-config-prettier-check: bin/check.js
-  checksum: 6a3bfdf840b7e0b01875e68a0b144d9c02495a1038167c32fc03b0f76d07d989bbe90dec1552b9f5f79119f27b4f1780acde05ee23d5034d7e1ffbdcb362c6d8
+  checksum: 3d04e463e0bb7e42a5ddec49eea6ef4ea07705d887e8a3ff1fcb82278a5e2bec1a36b8498ea7ed2d24878de29d7c94ac75b1d3ac4f8b19c3a84970595b29261f
   languageName: node
   linkType: hard
 
